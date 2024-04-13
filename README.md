@@ -6,6 +6,11 @@ Its a copy of <https://pixelsfighting.com/>, although I added some settings to m
 
 ## Example
 
+<p align="center">
+  <img width="809" alt="Screenshot 2024-04-13 at 23 44 16" src="https://github.com/Hereugo/rusty-pixel-fighting/assets/60090566/c63c68e3-dbd8-466d-970f-e6296e870b5d">
+</p>
+
+
 ## Author
 
 - Amir Nurmukhambetov [github](https://github.com/Hereugo)
