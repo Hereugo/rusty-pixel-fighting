@@ -1,0 +1,17 @@
+[package]
+name = "rusty-pixel-fighting"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+rand = "*" # random number generator
+colored = "2.0.4" # ansi color
+termion= "*" # terminal escapes
+colors-transform = "*" # parsing and converting colors 
+log = "*" # logging
+simple-logging = "*" # logging 
+log-panics = { version = "*", features = ["with-backtrace"] } # log panics
+
+[dependencies.extra]
+git = "https://gitlab.redox-os.org/redox-os/libextra.git"
